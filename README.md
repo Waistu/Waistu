@@ -6,7 +6,7 @@
 
 ### 热门项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 常用语言
 
