@@ -6,11 +6,11 @@
 
 ### 热门项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=show_owner)(https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card][(https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 常用语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waistu)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=Waistu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Waistu/Waistu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
