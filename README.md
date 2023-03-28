@@ -5,8 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waistu&show_icons=true&theme=blue-green)
 
 ### 热门项目
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=show_Waistu)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=Wing)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Waistu&repo=v2ray)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 常用语言
 
